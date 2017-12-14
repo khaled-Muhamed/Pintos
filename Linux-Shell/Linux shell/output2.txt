@@ -1,0 +1,6 @@
+-1	10	-15	-28	
+-3	-10	15	-36	
+5	-2	-9	-20	
+time interval in seconds = 0
+time interval in Microseconds = 1605
+number of threads = 12
